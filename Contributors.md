@@ -251,6 +251,7 @@ mohit singh
 - Daniel
 - DSHP
 - Maha
+- Tal Fadida (https://github.com/talfadida)
 - Hiyabye (https://github.com/Hiyabye)
 - Gerry F
 - Piyush Malpure (https://github.com/PiyushMalpure)
